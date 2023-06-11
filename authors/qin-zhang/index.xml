@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qin Zhang | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/qin-zhang/</link>
+      <atom:link href="https://shiruipan.github.io/authors/qin-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qin Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 19:47:36 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
+      <title>Qin Zhang</title>
+      <link>https://shiruipan.github.io/authors/qin-zhang/</link>
+    </image>
+    
+    <item>
+      <title>G2Pxy: Generative Open-Set node Classification on Graphs with Proxy Unknowns</title>
+      <link>https://shiruipan.github.io/publication/ijcai-23-zhang/</link>
+      <pubDate>Tue, 01 Aug 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-23-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs</title>
+      <link>https://shiruipan.github.io/publication/www-23-zheng/</link>
+      <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-23-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dynamic Variational Framework for Open-World Node Classification in Structured Sequences</title>
+      <link>https://shiruipan.github.io/publication/icdm-22-zhang/</link>
+      <pubDate>Sun, 27 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-22-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time series feature learning with labeled and unlabeled data</title>
+      <link>https://shiruipan.github.io/publication/wang-time-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wang-time-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

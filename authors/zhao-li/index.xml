@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhao Li | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/zhao-li/</link>
+      <atom:link href="https://shiruipan.github.io/authors/zhao-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhao Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Apr 2023 19:47:36 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhao Li</title>
+      <link>https://shiruipan.github.io/authors/zhao-li/</link>
+    </image>
+    
+    <item>
+      <title>CurvDrop: A Ricci Curvature Based Approach to Prevent Graph Neural Networks from Over-Smoothing and Over-Squashing</title>
+      <link>https://shiruipan.github.io/publication/www-23-liu/</link>
+      <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-23-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAMDR: A Model Agnostic Learning Method for Multi-Domain Recommendation</title>
+      <link>https://shiruipan.github.io/publication/icde-23-luo/</link>
+      <pubDate>Mon, 03 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icde-23-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Graph Self-Supervised Learning with Contrastive Adjusted Zooming</title>
+      <link>https://shiruipan.github.io/publication/tnnls-22-zheng/</link>
+      <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-22-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyclic label propagation for graph semi-supervised learning</title>
+      <link>https://shiruipan.github.io/publication/liu-wwwj-21/</link>
+      <pubDate>Thu, 24 Jun 2021 09:36:47 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/liu-wwwj-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning</title>
+      <link>https://shiruipan.github.io/publication/tnnls-21-liu/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-21-liu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

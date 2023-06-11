@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu Zheng | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/yu-zheng/</link>
+      <atom:link href="https://shiruipan.github.io/authors/yu-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu Zheng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 19:47:36 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
+      <title>Yu Zheng</title>
+      <link>https://shiruipan.github.io/authors/yu-zheng/</link>
+    </image>
+    
+    <item>
+      <title>Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs</title>
+      <link>https://shiruipan.github.io/publication/icml-23-zheng/</link>
+      <pubDate>Sun, 23 Jul 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icml-23-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rethinking and Scaling Up Graph Contrastive Learning: An Extremely Efficient Approach with Group Discrimination</title>
+      <link>https://shiruipan.github.io/publication/neurips-22-zheng/</link>
+      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-22-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unifying Graph Contrastive Learning with Flexible Contextual Scopes</title>
+      <link>https://shiruipan.github.io/publication/icdm-22-yizhen/</link>
+      <pubDate>Sun, 27 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-22-yizhen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Time Series Forecasting with Dynamic Graph Neural ODEs</title>
+      <link>https://shiruipan.github.io/publication/tkde-22-jin/</link>
+      <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tkde-22-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph self-supervised learning: A survey</title>
+      <link>https://shiruipan.github.io/publication/liu-21-survey/</link>
+      <pubDate>Tue, 02 Aug 2022 09:36:04 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/liu-21-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Unsupervised Deep Graph Structure Learning</title>
+      <link>https://shiruipan.github.io/publication/www-22-liu/</link>
+      <pubDate>Mon, 25 Apr 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-22-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning</title>
+      <link>https://shiruipan.github.io/publication/cikm-21-jin/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/cikm-21-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering Social Audiences in Business Information Networks</title>
+      <link>https://shiruipan.github.io/publication/pr-2019-zheng/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pr-2019-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Query-oriented citation recommendation based on network correlation</title>
+      <link>https://shiruipan.github.io/publication/yang-query-oriented-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/yang-query-oriented-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble of multiple descriptors for automatic image annotation</title>
+      <link>https://shiruipan.github.io/publication/he-ensemble-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/he-ensemble-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

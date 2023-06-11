@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reza Haffari | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/reza-haffari/</link>
+      <atom:link href="https://shiruipan.github.io/authors/reza-haffari/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reza Haffari</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 19:47:36 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
+      <title>Reza Haffari</title>
+      <link>https://shiruipan.github.io/authors/reza-haffari/</link>
+    </image>
+    
+    <item>
+      <title>Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion</title>
+      <link>https://shiruipan.github.io/publication/sigir-23-luo/</link>
+      <pubDate>Sun, 23 Jul 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/sigir-23-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs</title>
+      <link>https://shiruipan.github.io/publication/wsdm-23-luo/</link>
+      <pubDate>Mon, 27 Feb 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/wsdm-23-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BaLeNAS: Differentiable Architecture Search via Bayesian Learning Rule</title>
+      <link>https://shiruipan.github.io/publication/cvpr-22-zhang/</link>
+      <pubDate>Wed, 29 Jun 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/cvpr-22-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fire Burns, Swords Cut: Commonsense Inductive Bias for Exploration in Text-based Games</title>
+      <link>https://shiruipan.github.io/publication/acl-22-ryu/</link>
+      <pubDate>Fri, 27 May 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/acl-22-ryu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

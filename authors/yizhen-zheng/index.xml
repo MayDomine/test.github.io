@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yizhen Zheng | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/yizhen-zheng/</link>
+      <atom:link href="https://shiruipan.github.io/authors/yizhen-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yizhen Zheng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 19:47:36 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/authors/yizhen-zheng/avatar_hu0a02987c1b5bc970b81bbe1882c329b7_72534_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yizhen Zheng</title>
+      <link>https://shiruipan.github.io/authors/yizhen-zheng/</link>
+    </image>
+    
+    <item>
+      <title>Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs</title>
+      <link>https://shiruipan.github.io/publication/icml-23-zheng/</link>
+      <pubDate>Sun, 23 Jul 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icml-23-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation</title>
+      <link>https://shiruipan.github.io/publication/www-23-jin/</link>
+      <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-23-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating</title>
+      <link>https://shiruipan.github.io/publication/aaai-23-liu/</link>
+      <pubDate>Mon, 27 Feb 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-23-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive Graph Similarity Networks</title>
+      <link>https://shiruipan.github.io/publication/tweb-23-wang/</link>
+      <pubDate>Mon, 30 Jan 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tweb-23-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rethinking and Scaling Up Graph Contrastive Learning: An Extremely Efficient Approach with Group Discrimination</title>
+      <link>https://shiruipan.github.io/publication/neurips-22-zheng/</link>
+      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-22-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unifying Graph Contrastive Learning with Flexible Contextual Scopes</title>
+      <link>https://shiruipan.github.io/publication/icdm-22-yizhen/</link>
+      <pubDate>Sun, 27 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-22-yizhen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Graph Self-Supervised Learning with Contrastive Adjusted Zooming</title>
+      <link>https://shiruipan.github.io/publication/tnnls-22-zheng/</link>
+      <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-22-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning</title>
+      <link>https://shiruipan.github.io/publication/ijcai-22-jin/</link>
+      <pubDate>Sat, 23 Jul 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-22-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning</title>
+      <link>https://shiruipan.github.io/publication/ijcai-2021-jin/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-2021-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Graph Attention Network for Small and Medium-Sized Enterprises Bankruptcy Prediction</title>
+      <link>https://shiruipan.github.io/publication/pakdd-21-zheng/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pakdd-21-zheng/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaofei Zhou | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/xiaofei-zhou/</link>
+      <atom:link href="https://shiruipan.github.io/authors/xiaofei-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaofei Zhou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Nov 2022 19:47:36 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiaofei Zhou</title>
+      <link>https://shiruipan.github.io/authors/xiaofei-zhou/</link>
+    </image>
+    
+    <item>
+      <title>Unifying Graph Contrastive Learning with Flexible Contextual Scopes</title>
+      <link>https://shiruipan.github.io/publication/icdm-22-yizhen/</link>
+      <pubDate>Sun, 27 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-22-yizhen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Relational Semantics for Inductive Knowledge Graph Completion</title>
+      <link>https://shiruipan.github.io/publication/aaai-22-wang/</link>
+      <pubDate>Tue, 22 Feb 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-22-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypergraph Convolutional Network for Group Recommendation</title>
+      <link>https://shiruipan.github.io/publication/icdm-21-jia/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-21-jia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Relation-Specific Attention Network for Joint Entity and Relation Extraction</title>
+      <link>https://shiruipan.github.io/publication/ijcai-2020-yuan/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-2020-yuan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
